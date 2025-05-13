@@ -13,6 +13,7 @@ This project analyzes a historical Formula 1 dataset to uncover insights about d
 - **Years Covered:** 1950 - 2024
 - **Scope:** The dataset consists of all information on the Formula 1 races, drivers, constructors, qualifying, circuits, lap times, pit stops, championships from 1950 till the latest 2024 season.
 - **Filters Applied:** None
+https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 ---
 
 ## 🧰 Tools
